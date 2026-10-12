@@ -1,5 +1,6 @@
-matplotlib
 streamlit
 ultralytics
-Pillow
 numpy
+matplotlib
+Pillow
+opencv-python-headless
