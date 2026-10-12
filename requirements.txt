@@ -1,6 +1,5 @@
 matplotlib
 streamlit
 ultralytics
-PIL
+Pillow
 numpy
-os
